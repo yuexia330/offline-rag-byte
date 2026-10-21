@@ -1,0 +1,27 @@
+[
+    {
+        "question":"字节的全名是什么?",
+        "gold_chunk_id":["chunk_1", "chunk_6", "chunk_43"],
+        "answer":"北京抖音信息服务有限公司，曾用名北京字节跳动科技有限公司"
+    },
+    {
+        "question":"字节跳动什么时候成立的?",
+        "gold_chunk_id":["chunk_1", "chunk_6", "chunk_98"],
+        "answer":"2012年3月"
+    },
+    {
+        "question":"字节的创始人是谁?",
+        "gold_chunk_id":["chunk_6", "chunk_31","chunk_34", "chunk_66", "chunk_96"],
+        "answer":"张一鸣"
+    },
+    {
+        "question":"字节的创始人学的是什么专业?",
+        "gold_chunk_id":["chunk_96"],
+        "answer":"南开大学软件工程专业"
+    },
+    {
+        "question":"字节的主要业务是什么?",
+        "gold_chunk_id":["chunk_1", "chunk_2", "chunk_36"],
+        "answer":"公司以互联网信息服务为核心，业务涵盖信息分发、短视频运营等"
+    }
+]
